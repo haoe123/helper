@@ -1,0 +1,29 @@
+//
+//  HelperPrefixHeader.pch
+//  HelperDemo
+//
+//  Created by wanghailong on 16/1/15.
+//  Copyright © 2016年 HailongExcellency. All rights reserved.
+//
+
+#ifndef HelperPrefixHeader_pch
+#define HelperPrefixHeader_pch
+
+#import "Factory.h"
+#import "HelperDefine.h"
+#import "UIView+Addition.h"
+#import "BaseViewController.h"
+#import "UIColor+Extensions.h"
+#import "UIView+Extensions.h"
+#import "LXYToast.h"
+#import "DSToast.h"
+#import "MyTabBarViewController.h"
+#import "AFNetworking.h"
+#import "MHNetwrok.h"
+#import "MBProgressHUD+Add.h"
+#import "SVProgressHUD.h"
+#import "UIImageView+WebCache.h"
+
+#import "JSONModel.h"
+#import "JWStarView.h"
+#endif /* HelperPrefixHeader_pch */
